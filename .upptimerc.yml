@@ -1,10 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: fredre # Your GitHub organization or username, where this repository lives
+repo: ecMonitor # The name of this repository
 
 sites:
   - name: TUT Website
-    url: https://ec.tut.ac.za
+    url: https://www.tut.ac.za
   - name: EC 
     url: https://ec.tut.ac.za
 
