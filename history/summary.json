@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.tut.ac.za.ico",
     "slug": "tut-website",
     "status": "down",
-    "uptime": "42.42%",
-    "uptimeDay": "42.42%",
-    "uptimeWeek": "42.42%",
-    "uptimeMonth": "42.42%",
-    "uptimeYear": "42.42%",
+    "uptime": "4.59%",
+    "uptimeDay": "4.59%",
+    "uptimeWeek": "4.59%",
+    "uptimeMonth": "4.59%",
+    "uptimeYear": "4.59%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-27": 1
+      "2023-02-27": 10
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.tut.ac.za.ico",
     "slug": "ec",
     "status": "down",
-    "uptime": "77.33%",
-    "uptimeDay": "77.33%",
-    "uptimeWeek": "77.33%",
-    "uptimeMonth": "77.33%",
-    "uptimeYear": "77.33%",
+    "uptime": "5.04%",
+    "uptimeDay": "5.04%",
+    "uptimeWeek": "5.04%",
+    "uptimeMonth": "5.04%",
+    "uptimeYear": "5.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-27": 0
+      "2023-02-27": 10
     }
   }
 ]
