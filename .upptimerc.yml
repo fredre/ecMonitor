@@ -12,17 +12,16 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /ecMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: EC Uptime and Alive
   introTitle: "**EC Uptime and Alive** will check if EC is up and what the current status is."
-  introMessage: Welcom this uptime is checked from outside South Africa 
+  introMessage: Welcome. A server outside of South Africa checks the uptime. 
   navbar:
     - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://fredre.github.io/ecMonitor/
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
