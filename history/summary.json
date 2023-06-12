@@ -28,18 +28,19 @@
     "url": "https://ec.tut.ac.za",
     "icon": "https://icons.duckduckgo.com/ip3/ec.tut.ac.za.ico",
     "slug": "ec",
-    "status": "up",
-    "uptime": "89.66%",
-    "uptimeDay": "91.29%",
+    "status": "down",
+    "uptime": "89.77%",
+    "uptimeDay": "91.28%",
     "uptimeWeek": "90.28%",
     "uptimeMonth": "79.61%",
-    "uptimeYear": "89.66%",
+    "uptimeYear": "89.77%",
     "time": 1311,
     "timeDay": 1203,
     "timeWeek": 1245,
     "timeMonth": 1241,
     "timeYear": 1311,
     "dailyMinutesDown": {
+      "2023-06-12": 0,
       "2023-06-11": 125,
       "2023-06-10": 237,
       "2023-06-09": 130,
@@ -81,7 +82,7 @@
       "2023-05-01": 246,
       "2023-04-30": 145,
       "2023-04-29": 368,
-      "2023-04-28": 476
+      "2023-04-28": 352
     }
   }
 ]
