@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
-    "time": 2001,
-    "timeDay": 2704,
-    "timeWeek": 1721,
-    "timeMonth": 1888,
+    "uptimeYear": "98.39%",
+    "time": 1999,
+    "timeDay": 1393,
+    "timeWeek": 1728,
+    "timeMonth": 1879,
     "timeYear": 1688,
     "dailyMinutesDown": {
       "2024-04-02": 23,
@@ -34,8 +34,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 357,
       "2023-12-24": 623,
-      "2023-12-23": 1440,
-      "2023-12-22": 1440
+      "2023-12-23": 1440
     }
   },
   {
@@ -44,12 +43,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.tut.ac.za.ico",
     "slug": "ec",
     "status": "down",
-    "uptime": "90.78%",
+    "uptime": "90.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.73%",
-    "time": 1366,
+    "uptimeYear": "87.01%",
+    "time": 1368,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -100,8 +99,7 @@
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
-      "2023-12-23": 1440,
-      "2023-12-22": 1440
+      "2023-12-23": 1440
     }
   }
 ]
