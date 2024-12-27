@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tut.ac.za.ico",
     "slug": "tut-website",
     "status": "up",
-    "uptime": "98.47%",
+    "uptime": "98.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
-    "time": 1979,
-    "timeDay": 1584,
-    "timeWeek": 2305,
-    "timeMonth": 1986,
+    "time": 1978,
+    "timeDay": 1664,
+    "timeWeek": 2156,
+    "timeMonth": 1992,
     "timeYear": 1690,
     "dailyMinutesDown": {
       "2024-04-02": 23,
@@ -41,12 +41,12 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.tut.ac.za.ico",
     "slug": "ec",
     "status": "down",
-    "uptime": "90.86%",
+    "uptime": "90.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.38%",
-    "time": 1378,
+    "uptimeYear": "88.65%",
+    "time": 1381,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -91,8 +91,7 @@
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 1440,
-      "2023-12-28": 1440
+      "2023-12-29": 1440
     }
   }
 ]
