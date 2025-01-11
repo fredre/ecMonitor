@@ -10,10 +10,10 @@
     "uptimeWeek": "94.28%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.76%",
-    "time": 1795,
-    "timeDay": 1535,
-    "timeWeek": 1731,
-    "timeMonth": 1923,
+    "time": 1793,
+    "timeDay": 1873,
+    "timeWeek": 1755,
+    "timeMonth": 1929,
     "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-01-06": 346,
@@ -39,11 +39,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ec.tut.ac.za.ico",
     "slug": "ec",
     "status": "down",
-    "uptime": "91.06%",
+    "uptime": "91.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.49%",
+    "uptimeYear": "92.76%",
     "time": 1405,
     "timeDay": 0,
     "timeWeek": 0,
@@ -74,8 +74,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   }
 ]
