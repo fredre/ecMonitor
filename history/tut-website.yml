@@ -1,7 +1,7 @@
 url: https://www.tut.ac.za
-status: up
-code: 200
-responseTime: 1934
-lastUpdated: 2025-08-04T23:05:59.436Z
+status: down
+code: 415
+responseTime: 1065
+lastUpdated: 2025-08-05T09:43:28.826Z
 startTime: 2023-02-27T08:41:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
